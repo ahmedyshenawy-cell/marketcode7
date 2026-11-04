@@ -1,0 +1,435 @@
+{
+  "site": {
+    "brand": "Market Code Agency",
+    "theme": {
+      "ac": "#c026a3",
+      "ac2": "#7c3aed",
+      "bg": "#0d061f"
+    },
+    "phone": "+20 106 193 0339",
+    "whatsapp": "201061930339",
+    "email": "marketcode87@gmail.com",
+    "links": {
+      "behance": "",
+      "facebook": "",
+      "instagram": ""
+    },
+    "ar": {
+      "menu": [
+        "من نحن",
+        "ليه إحنا",
+        "خدماتنا",
+        "عملاؤنا",
+        "أعمالنا",
+        "تواصل معنا"
+      ],
+      "cta": "ابدأ مشروعك",
+      "hero": {
+        "eb": "وكالة تسويق متكاملة",
+        "t": "بنحوّل براندك لـ <span>قصة بتتحكي وبتبيع</span>",
+        "p": "ماركت كود بتجمع بين الإبداع والاستراتيجية والتكنولوجيا عشان تنمّي بيزنسك وتوصّله للعميل الصح.",
+        "c1": "ابدأ مشروعك",
+        "c2": "شوف أعمالنا"
+      },
+      "about": {
+        "eb": "من نحن",
+        "t": "إحنا مين؟",
+        "p": "وكالة تسويق متكاملة بتمزج الشغف بالإبداع والاستراتيجية. بنؤمن إن لكل براند قصة، ومهمتنا نحكيها بطريقة تلمس الناس وتخلّيهم يتفاعلوا ويشتروا. بنشتغل جنب عملائنا، بندرس سوقهم وبيئة شغلهم، ونبني استراتيجيات تحقق أهدافهم، ومواكبين دايماً لأحدث التقنيات عشان خدماتنا تناسب طموحاتهم."
+      },
+      "mission": {
+        "k": "مهمتنا",
+        "v": "نكون المحفّز لنمو عملائنا، ونحوّل براندهم باستراتيجيات تسويق مبتكرة."
+      },
+      "vision": {
+        "k": "رؤيتنا",
+        "v": "نمكّن كل بيزنس نشتغل معاه يوصل لأقصى إمكانياته بحلول تسويق متطورة، ونصنع مستقبل التسويق فيه أذكى وأكثر إبداعاً وتأثيراً لكل عميل."
+      },
+      "goals": {
+        "k": "أهدافنا",
+        "v": "نمكّن البراندات من تحقيق إمكانياتها الكاملة، ونبني شراكات طويلة المدى مع عملائنا."
+      },
+      "why": {
+        "eb": "ليه إحنا",
+        "t": "إيه اللي بيميزنا؟",
+        "items": [
+          [
+            "كل حاجة تحت سقف واحد",
+            "مش مجرد وكالة تسويق؛ بنقدم خدمة متكاملة بتغطي كل احتياجاتك التسويقية."
+          ],
+          [
+            "استراتيجيات مفصّلة على مقاسك",
+            "مفيش باقات جاهزة للكل؛ كل عميل بياخد خطة مخصوصة له."
+          ],
+          [
+            "تقنيات حديثة",
+            "مواكبين لأحدث الأدوات والتقنيات التسويقية الرقمية."
+          ]
+        ]
+      },
+      "srv": {
+        "eb": "خدماتنا",
+        "t": "بنقدم إيه؟",
+        "p": "منظومة متكاملة من الاستراتيجية للتنفيذ للقياس.",
+        "items": [
+          [
+            "التسويق الرقمي",
+            "استراتيجيات متكاملة لتنمية بيزنسك أونلاين عبر قنوات وأدوات متعددة، ونتائج قابلة للقياس."
+          ],
+          [
+            "إدارة السوشيال ميديا",
+            "إدارة ومتابعة صفحاتك بتفاعل احترافي وفي الوقت المناسب مع جمهورك."
+          ],
+          [
+            "الإعلانات المدفوعة",
+            "تخطيط وشراء المساحات الإعلانية بذكاء لأعلى وصول وتفاعل وعائد."
+          ],
+          [
+            "جلسات التصوير",
+            "تصوير احترافي بجودة عالية يعبّر عن هوية براندك ورؤيته."
+          ],
+          [
+            "الهوية البصرية",
+            "بناء هوية البراند وصوته وتموضعه بشكل متسق وبصمة مميزة."
+          ],
+          [
+            "الإنتاج الإعلامي",
+            "فيديوهات وموشن وتصاميم مؤثرة توصّل رسالتك بوضوح."
+          ],
+          [
+            "التحليلات وتحسين الأداء",
+            "تتبع وتحليل وتحسين الحملات والقنوات لأقصى كفاءة ونمو يتقاس."
+          ],
+          [
+            "تحسين محركات البحث SEO",
+            "رفع ظهور موقعك في جوجل بحلول داخل الموقع وخارجه لجذب زيارات مجانية."
+          ],
+          [
+            "صفحات الهبوط",
+            "تصميم صفحات عالية التحويل متوافقة مع تجربة المستخدم وجمع العملاء المحتملين."
+          ],
+          [
+            "تسويق المحتوى",
+            "محتوى قيّم ومنتظم يجذب جمهورك ويحتفظ بيه ويقوده للشراء."
+          ]
+        ]
+      },
+      "cl": {
+        "eb": "عملاؤنا",
+        "t": "شركاء النجاح"
+      },
+      "pf": {
+        "eb": "أعمالنا",
+        "t": "مشاريع بنفتخر بيها",
+        "tabs": {
+          "video": "إنتاج فيديو",
+          "photo": "جلسات تصوير",
+          "graphic": "جرافيك ديزاين"
+        },
+        "more": "شوف باقي الأعمال"
+      },
+      "ct": {
+        "eb": "تواصل معنا",
+        "t": "جاهز نحكي قصة براندك؟",
+        "p": "كلمنا النهاردة ونبدأ نبني خطة تسويق مخصوصة لبيزنسك.",
+        "wa": "كلمنا على واتساب"
+      },
+      "foot": "جميع الحقوق محفوظة"
+    },
+    "en": {
+      "menu": [
+        "About",
+        "Why Us",
+        "Services",
+        "Clients",
+        "Work",
+        "Contact"
+      ],
+      "cta": "Start a project",
+      "hero": {
+        "eb": "Full-service marketing agency",
+        "t": "We turn your brand into <span>a story that sells</span>",
+        "p": "Market Code blends creativity, strategy and technology to grow your business and reach the right audience.",
+        "c1": "Start a project",
+        "c2": "See our work"
+      },
+      "about": {
+        "eb": "About us",
+        "t": "Who we are",
+        "p": "We are a dynamic full-service marketing agency that blends passion, creativity and strategy. We believe every brand has a story, and our mission is to tell it in a way that resonates, engages and converts. We work closely with our clients, analyzing their market and business environment to craft strategies that achieve their goals, and we stay up to date with the latest technology to deliver services that match their ambitions."
+      },
+      "mission": {
+        "k": "Mission",
+        "v": "To be the catalyst for our clients’ growth, transforming their brands through innovative marketing strategies."
+      },
+      "vision": {
+        "k": "Vision",
+        "v": "To empower every business we work with to reach its fullest potential through cutting-edge marketing solutions, creating a future where marketing is smarter, more creative and more effective for every client we serve."
+      },
+      "goals": {
+        "k": "Goals",
+        "v": "Empower brands to achieve their full potential and build long-term client partnerships."
+      },
+      "why": {
+        "eb": "Why us",
+        "t": "What makes us different",
+        "items": [
+          [
+            "Full-service powerhouse",
+            "More than a marketing agency: every marketing need under one roof."
+          ],
+          [
+            "Tailored strategies",
+            "No one-size-fits-all packages. Every client gets a customized plan."
+          ],
+          [
+            "Tech-forward approach",
+            "Up to date with the latest digital tools and marketing technologies."
+          ]
+        ]
+      },
+      "srv": {
+        "eb": "Services",
+        "t": "What we offer",
+        "p": "An end-to-end system from strategy to execution to measurement.",
+        "items": [
+          [
+            "Digital Marketing",
+            "Comprehensive strategies to grow your business online across multiple channels, with measurable results."
+          ],
+          [
+            "Social Media Moderation",
+            "Managing and monitoring your platforms for engaging, timely and professional interactions."
+          ],
+          [
+            "Media Buying",
+            "Strategic planning and purchasing of ad space to maximize reach, engagement and ROI."
+          ],
+          [
+            "Photo Sessions",
+            "Professional photography that captures your brand’s identity and vision."
+          ],
+          [
+            "Branding",
+            "Defining your visual identity, voice and positioning for a consistent, memorable brand."
+          ],
+          [
+            "Media Production",
+            "Videos, animation and graphics that communicate your message effectively."
+          ],
+          [
+            "Analytics & Optimization",
+            "Tracking, analyzing and optimizing campaigns for maximum efficiency and measurable growth."
+          ],
+          [
+            "SEO",
+            "On-page and off-page strategies that lift your search visibility and organic traffic."
+          ],
+          [
+            "Landing Pages",
+            "High-converting pages optimized for user experience and lead generation."
+          ],
+          [
+            "Content Marketing",
+            "Valuable, consistent content that attracts, engages and retains your audience."
+          ]
+        ]
+      },
+      "cl": {
+        "eb": "Clients",
+        "t": "Brands that trust us"
+      },
+      "pf": {
+        "eb": "Portfolio",
+        "t": "Projects we are proud of",
+        "tabs": {
+          "video": "Video Production",
+          "photo": "Photo Sessions",
+          "graphic": "Graphic Design"
+        },
+        "more": "See more work"
+      },
+      "ct": {
+        "eb": "Contact",
+        "t": "Ready to tell your brand’s story?",
+        "p": "Reach out today and we will build a marketing plan tailored to your business.",
+        "wa": "Chat on WhatsApp"
+      },
+      "foot": "All rights reserved"
+    }
+  },
+  "assets": {
+    "logo": "assets/logo.png",
+    "clients": [
+      {
+        "src": "assets/clients/01.png",
+        "link": ""
+      },
+      {
+        "src": "assets/clients/02.png",
+        "link": ""
+      },
+      {
+        "src": "assets/clients/03.png",
+        "link": ""
+      },
+      {
+        "src": "assets/clients/04.png",
+        "link": ""
+      },
+      {
+        "src": "assets/clients/05.png",
+        "link": ""
+      },
+      {
+        "src": "assets/clients/06.png",
+        "link": ""
+      },
+      {
+        "src": "assets/clients/07.png",
+        "link": ""
+      },
+      {
+        "src": "assets/clients/08.png",
+        "link": ""
+      },
+      {
+        "src": "assets/clients/09.png",
+        "link": ""
+      },
+      {
+        "src": "assets/clients/10.png",
+        "link": ""
+      },
+      {
+        "src": "assets/clients/11.png",
+        "link": ""
+      },
+      {
+        "src": "assets/clients/12.png",
+        "link": ""
+      },
+      {
+        "src": "assets/clients/13.png",
+        "link": ""
+      },
+      {
+        "src": "assets/clients/14.png",
+        "link": ""
+      },
+      {
+        "src": "assets/clients/15.png",
+        "link": ""
+      },
+      {
+        "src": "assets/clients/16.png",
+        "link": ""
+      },
+      {
+        "src": "assets/clients/17.png",
+        "link": ""
+      }
+    ],
+    "video": [
+      {
+        "src": "assets/video/01.jpg",
+        "link": ""
+      },
+      {
+        "src": "assets/video/02.jpg",
+        "link": ""
+      },
+      {
+        "src": "assets/video/03.jpg",
+        "link": ""
+      },
+      {
+        "src": "assets/video/04.jpg",
+        "link": ""
+      },
+      {
+        "src": "assets/video/05.jpg",
+        "link": ""
+      },
+      {
+        "src": "assets/video/06.jpg",
+        "link": ""
+      },
+      {
+        "src": "assets/video/07.jpg",
+        "link": ""
+      },
+      {
+        "src": "assets/video/08.jpg",
+        "link": ""
+      }
+    ],
+    "photo": [
+      {
+        "src": "assets/photo/01.jpg",
+        "link": ""
+      },
+      {
+        "src": "assets/photo/02.jpg",
+        "link": ""
+      },
+      {
+        "src": "assets/photo/03.jpg",
+        "link": ""
+      },
+      {
+        "src": "assets/photo/04.jpg",
+        "link": ""
+      },
+      {
+        "src": "assets/photo/05.jpg",
+        "link": ""
+      },
+      {
+        "src": "assets/photo/06.jpg",
+        "link": ""
+      },
+      {
+        "src": "assets/photo/07.jpg",
+        "link": ""
+      },
+      {
+        "src": "assets/photo/08.jpg",
+        "link": ""
+      }
+    ],
+    "graphic": [
+      {
+        "src": "assets/graphic/01.jpg",
+        "link": ""
+      },
+      {
+        "src": "assets/graphic/02.jpg",
+        "link": ""
+      },
+      {
+        "src": "assets/graphic/03.jpg",
+        "link": ""
+      },
+      {
+        "src": "assets/graphic/04.jpg",
+        "link": ""
+      },
+      {
+        "src": "assets/graphic/05.jpg",
+        "link": ""
+      },
+      {
+        "src": "assets/graphic/06.jpg",
+        "link": ""
+      },
+      {
+        "src": "assets/graphic/07.jpg",
+        "link": ""
+      },
+      {
+        "src": "assets/graphic/08.jpg",
+        "link": ""
+      }
+    ]
+  }
+}
